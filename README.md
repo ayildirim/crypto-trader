@@ -7,7 +7,7 @@
 
 1. **Download & install**
 ```bash
-git clone https://github.com/pirate/cryto-trader.git
+git clone https://github.com/pirate/crypto-trader.git
 cd crypto-trader
 pip3 install -r requirements.txt
 ```
